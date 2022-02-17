@@ -4,6 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/josua/AndroidStudioProject/Project6/app/src/main/res/layout/activity_main.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/josua/AndroidStudioProject/Project6/app/src/main/res/layout/fragment_first.xml" value="0.4" />
+        <entry key="..\:/Users/josua/AndroidStudioProject/Project6/app/src/main/res/layout/fragment_second_fraagment.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/josua/AndroidStudioProject/Project6/app/src/main/res/layout/fragment_third.xml" value="0.24682971014492755" />
       </map>
     </option>
   </component>
